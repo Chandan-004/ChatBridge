@@ -1,6 +1,6 @@
 # Fullstack Chat Application
 
-A real-time chat application built using the MERN stack (MongoDB, Express, React, Node.js) and Socket.io.
+A real-time Chat Application built using the MERN stack (MongoDB, Express, React, Node.js) and Socket.io.
 
 <img width="1919" height="895" alt="Screenshot 2025-12-17 222708" src="https://github.com/user-attachments/assets/502884b1-2c13-4742-b7ef-b957c91c7550" />
 
