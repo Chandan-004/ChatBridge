@@ -114,7 +114,4 @@ npm run dev
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## wc License
-
-This project is licensed under the ISC License.
 
